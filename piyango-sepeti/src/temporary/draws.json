@@ -1,0 +1,111 @@
+{
+  "draws" : [
+    {
+      "id": 0,
+      "title": "CUPRA FORMENTOR VZ 2.0 Tsi",
+      "remain": 121381,
+      "date": "01.01.2024",
+      "price": 2905469,
+      "ticketPrice": 14.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/fcf95f3d-d8a3-4b73-8582-ac3f42a87732_resize-thumb-box.webp"
+    },
+    {
+      "id": 1,
+      "title": "NISSAN J12 QASHWAI e-POWER",
+      "remain": 53707,
+      "date": "01.01.2024",
+      "price": 1806101,
+      "ticketPrice": 12,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/5ecf08c8-770b-44d0-9f82-18b659871e1e_resize-thumb-box.webp"
+    },
+    {
+      "id": 2,
+      "title": "Peugeot 5008 GT 1.5 BlueHdi",
+      "remain": 382890,
+      "date": "01.01.2024",
+      "price": 2258275,
+      "ticketPrice": 11.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/e0c2189c-d0e7-4a0b-b610-977df62d945a_resize-thumb-box.webp"
+    },
+    {
+      "id": 3,
+      "title": "CHERY TIGGO 7 EXCELLENT",
+      "remain": 288660,
+      "date": "01.01.2024",
+      "price": 1343183,
+      "ticketPrice": 9,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/ebdfee9a-3905-4fcf-8c10-dcf31dc5c9ee_resize-thumb-box.webp"
+    },
+    {
+      "id": 4,
+      "title": "iPhone 14 Pro Max 256GB Purple",
+      "remain": 52412,
+      "date": "01.01.2024",
+      "price": 71185,
+      "ticketPrice": 7.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/e4bfd489-a5f1-4a7b-96df-9206cf0df0b5_resize-thumb-box.webp"
+    },
+    {
+      "id": 5,
+      "title": "15 inç MacBook Air",
+      "remain": 50000,
+      "date": "01.01.2024",
+      "price": 54406,
+      "ticketPrice": 7.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/5f5b2c27-e402-427d-86a2-7af4ee9873fe_resize-thumb-box.webp"
+    },
+    {
+      "id": 6,
+      "title": "Monster Tulpar T7 V20.6.2",
+      "remain": 12045,
+      "date": "01.01.2024",
+      "price": 44000,
+      "ticketPrice": 7.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/d6941a53-f501-4024-801a-fd4f0bff002c_resize-thumb-box.webp"
+    },{
+      "id": 7,
+      "title": "CUPRA FORMENTOR VZ 2.0 Tsi",
+      "remain": 121381,
+      "date": "01.01.2024",
+      "price": 2905469,
+      "ticketPrice": 14.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/fcf95f3d-d8a3-4b73-8582-ac3f42a87732_resize-thumb-box.webp"
+    },
+    {
+      "id": 8,
+      "title": "NISSAN J12 QASHWAI e-POWER",
+      "remain": 53707,
+      "date": "01.01.2024",
+      "price": 1806101,
+      "ticketPrice": 12,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/5ecf08c8-770b-44d0-9f82-18b659871e1e_resize-thumb-box.webp"
+    },
+    {
+      "id": 9,
+      "title": "Peugeot 5008 GT 1.5 BlueHdi",
+      "remain": 382890,
+      "date": "01.01.2024",
+      "price": 2258275,
+      "ticketPrice": 11.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/e0c2189c-d0e7-4a0b-b610-977df62d945a_resize-thumb-box.webp"
+    },
+    {
+      "id": 10,
+      "title": "CHERY TIGGO 7 EXCELLENT",
+      "remain": 288660,
+      "date": "01.01.2024",
+      "price": 1343183,
+      "ticketPrice": 9,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/ebdfee9a-3905-4fcf-8c10-dcf31dc5c9ee_resize-thumb-box.webp"
+    },
+    {
+      "id": 11,
+      "title": "iPhone 14 Pro Max 256GB Purple",
+      "remain": 52412,
+      "date": "01.01.2024",
+      "price": 71185,
+      "ticketPrice": 7.5,
+      "image": "https://cdn.piyangosepeti.com.tr/cdn/mpi-ps/e4bfd489-a5f1-4a7b-96df-9206cf0df0b5_resize-thumb-box.webp"
+    }
+  ]
+}
