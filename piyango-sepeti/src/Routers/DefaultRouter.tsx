@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom"
 import DrawResults from "../Pages/DrawResults";
 import Layout from "../Layouts/Layout";
 import Home from "../Pages/Home";
-import AllDrawList from "../Pages/AllDrawList";
+import AllDrawList from "../Pages/Draws";
 
 const DefaultRouter = () => {
   return(

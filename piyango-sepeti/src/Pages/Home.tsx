@@ -1,6 +1,6 @@
 import '../global.css'
-import ActiveDrawList from './ActiveDrawList';
-import DrawList from './DrawList';
+import ActiveDrawList from '../Components/ActiveDrawList';
+import DrawList from '../Components/DrawList';
 
 const Home = () => {
   return (
